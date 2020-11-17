@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="nerosiar Spotify Playing" width="350" />](https://open.spotify.com/user/uh4zb0g75gf736h7u6a02hj6j)
 
+### Hackthebox :
+ <script src="https://www.hackthebox.eu/badge/444664"></script>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

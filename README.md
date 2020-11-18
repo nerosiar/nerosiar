@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Hackthebox :
 
-[<img src="http://www.hackthebox.eu/badge/image/444664" alt="Hack The Box">](https://www.hackthebox.eu/badge/444664)
+<img src="http://www.hackthebox.eu/badge/image/444664" alt="Hack The Box">
 
 ### Connect with me:
 

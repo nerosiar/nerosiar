@@ -66,6 +66,14 @@ Here are some ideas to get you started:
 
 </details>
 
+
+<details>
+  <summary>:zap: Github Most Used Languages</summary>
+
+![https://github-readme-stats.vercel.app/api/top-langs/?username=nerosiar&hide=pawn&langs_count=8&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=nerosiar&hide=pawn&langs_count=8&layout=compact)
+
+</details>
+
 [website]: https://nrais.me
 [twitter]: https://twitter.com/NaderRais/
 [instagram]: https://instagram.com/nader_rais/

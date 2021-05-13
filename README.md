@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 ## Stat <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px">:
 
 <p align="center">
-![Metrics](https://metrics.lecoq.io/nerosiar?template=classic&isocalendar=1&languages=1&gists=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Africa%2FTunis)
+<img src="https://metrics.lecoq.io/nerosiar?template=classic&isocalendar=1&languages=1&gists=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Africa%2FTunis">
 </p>
 
 [website]: https://nrais.me

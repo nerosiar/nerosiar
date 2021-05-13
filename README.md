@@ -72,14 +72,16 @@ Here are some ideas to get you started:
 
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=nerosiar&hide=pawn&langs_count=8&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=nerosiar&hide=pawn&langs_count=8&layout=compact)
 
+</details>
+
 ---
 
 ## Stat <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px">:
 
-</details>
 <p align="center">
 ![Metrics](https://metrics.lecoq.io/nerosiar?template=classic&isocalendar=1&languages=1&gists=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Africa%2FTunis)
 </p>
+
 [website]: https://nrais.me
 [twitter]: https://twitter.com/NaderRais/
 [instagram]: https://instagram.com/nader_rais/

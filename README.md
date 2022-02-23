@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-## I'm a student, CyberSecurity specialist, multipurpose-Developer, and Social Engineering Trainer!
+## I'm a  CS Engineer, CyberSecurity specialist, multipurpose-Developer, and Social Engineering Trainer!
 - 🔭 I’m currently working on  [My Blog][website]!
 - 🌱 I’m currently learning deno (https://deno.land).
 - 👯 I’m looking to collaborate on new projects idea.
